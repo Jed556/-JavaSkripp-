@@ -9,10 +9,10 @@ This repository is only for updates and submission of issues <br/>
 The main JavaSkripp repository is set to Private for security reasons <br/>
 
 ## Usage
-Use a prefix based command first (ex. ```!help```) before using a slash command after the bot boots ([Issue](https://github.com/users/Jed556/projects/1#card-68807832)) <br/>
+Use a prefix based command first (ex. ```!help```) before using a slash command after the bot boots ([Issue](https://github.com/Jed556/JavaSkripp-Public/projects/1#card-68811519)) <br/>
 Use ```!help``` or ```/info help``` in Discord to list all commands <br/>
 
 ## Updates and Issues
-Updates and issues of JavaSkripp are available in this [project](https://github.com/users/Jed556/projects/1). <br/>
+Updates and issues of JavaSkripp are available in this [project](https://github.com/Jed556/JavaSkripp-Public/projects/1). <br/>
 My Discord username: Jed556#4147 <br/>
 My Email: jguiriba11@gmail.com <br/>
