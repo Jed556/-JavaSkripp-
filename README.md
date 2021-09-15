@@ -1,6 +1,7 @@
-# Discord.js Bot
+# JavaSkripp.js - [*Invite me!*](discord.com/api/oauth2/authorize?client_id=881308119383302165&permissions=8&scope=bot%20applications.commands) <br/>
+
 ## Disclaimer
-Command handlers used are imported from this [repository](https://github.com/Tomato6966/Discord-js-handler-slash-Commands) and modified by me to suit the needs of JavaSkripp's commands. <br/>
+Command handlers used are imported from this [repository](https://github.com/Tomato6966/Discord-js-handler-slash-Commands) by [Tomato6966](https://github.com/Tomato6966) and modified by [me](https://github.com/Jed556) to suit the needs of JavaSkripp's commands. <br/>
 
 ## Features
 This is a custom slash command based discord.js bot with over 105 slash commands <br/>
