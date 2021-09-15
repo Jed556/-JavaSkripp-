@@ -1,4 +1,4 @@
-# <img src="https://github.com/Jed556/JavaSkripp-Public/blob/main/JavaSkripp.png" width="25" height="25"/> JavaSkripp.js - [*Invite me!*](discord.com/api/oauth2/authorize?client_id=881308119383302165&permissions=8&scope=bot%20applications.commands) <br/>
+# <img align="top" src="https://github.com/Jed556/JavaSkripp-Public/blob/main/JavaSkripp.svg" width="42" height="42"/> &nbsp;JavaSkripp.js - [*Invite me!*](discord.com/api/oauth2/authorize?client_id=881308119383302165&permissions=8&scope=bot%20applications.commands) <br/>
 
 ## Disclaimer
 Command handlers used are imported from this [repository](https://github.com/Tomato6966/Discord-js-handler-slash-Commands) by [Tomato6966](https://github.com/Tomato6966) and modified by [me](https://github.com/Jed556) to suit the needs of JavaSkripp's commands.
