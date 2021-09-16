@@ -4,13 +4,12 @@
 Command handlers used are imported from this [repository](https://github.com/Tomato6966/Discord-js-handler-slash-Commands) by [Tomato6966](https://github.com/Tomato6966) and modified by [me](https://github.com/Jed556) to suit the needs of JavaSkripp's commands.
 
 ## Features
-This is a custom slash command based discord.js bot with over 105 slash commands <br/>
-Music, Guild and Moderation commands are included <br/>
-Also supports \<prefix\> commands <br/>
+This is a custom slash command based discord.js bot with over 106 slash commands <br/>
+Music, Utility and Moderation commands are included <br/>
 >*Features may vary as development continues*
 
 ## Usage
-Use ```!help``` or ```/info help``` in Discord to list all commands
+Use ```/info help``` in Discord to list all commands
 
 ## Updates and Issues
 This repository is only for updates and submission of issues. The main JavaSkripp repository is set to Private due to security reasons. <br/>
