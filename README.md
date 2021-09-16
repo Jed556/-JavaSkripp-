@@ -10,7 +10,6 @@ Also supports \<prefix\> commands <br/>
 >*Features may vary as development continues*
 
 ## Usage
-Use a prefix based command first (ex. ```!help```) before using a slash command after the bot boots ([**Issue**](https://github.com/Jed556/JavaSkripp-Public/projects/1?fullscreen=true#card-68811519)) <br/>
 Use ```!help``` or ```/info help``` in Discord to list all commands
 
 ## Updates and Issues
