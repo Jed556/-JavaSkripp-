@@ -5,7 +5,7 @@ Command handlers used are imported from this [repository](https://github.com/Tom
 
 ## Features
 [**Invite me**](https://discord.com/oauth2/authorize?client_id=881308119383302165&permissions=8&scope=bot%20applications.commands) and see for yourself! <br/>
-• This is a custom slash command based discord.js bot with over 106 slash commands. <br/>
+• This is a custom slash command based discord.js bot with over 50 slash commands. <br/>
 • Music, Utility and Moderation commands are included. <br/>
 >*Features may vary as development continues*
 
