@@ -16,6 +16,6 @@ Use ```/info help``` in Discord to list all commands.
 This repository is only for updates and submission of issues. The main JavaSkripp repository is set to Private due to security reasons. <br/>
 Updates and issues of JavaSkripp are available in this [**project**](https://github.com/Jed556/JavaSkripp-Public/projects/1?fullscreen=true). <br/>
 <br/>
-**Discord**: Gatorade#4147 <br/>
+**Discord**: Jed556#4147 <br/>
 **Email**: jguiriba11@gmail.com <br/>
 > You can DM **JavaSkripp#1115** for support (Only available if JavaSkripp is in a mutual server) <br/>
