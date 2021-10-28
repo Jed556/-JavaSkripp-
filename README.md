@@ -5,8 +5,8 @@ Command handlers used are imported from [Tomato6966](https://github.com/Tomato69
 
 ## Features
 [**Invite me**](https://discord.com/oauth2/authorize?client_id=881308119383302165&permissions=8&scope=bot%20applications.commands) and see for yourself! <br/>
-• This is a custom slash command based discord.js bot with over 50 slash commands. <br/>
-• Music, Utility, Web Scraping and Moderation commands are included. <br/>
+• This is a custom slash command based discord.js bot with over 55 slash commands. <br/>
+• Music, Utility, Web Scraping, Coding and Moderation commands are included. <br/>
 >*Features may vary as development continues*
 
 ## Usage
@@ -18,4 +18,4 @@ Updates and issues of JavaSkripp are available in this [**project**](https://git
 <br/>
 **Discord**: Gatorade#4147 <br/>
 **Email**: jguiriba11@gmail.com <br/>
-> You can DM **JavaSkripp#1115** for support (Only available if JavaSkripp is in a mutual server) <br/>
+> You can DM **Gatorade 卐#4147** for support (Only available if JavaSkripp is in a mutual server) <br/>
